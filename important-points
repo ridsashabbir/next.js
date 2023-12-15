@@ -1,3 +1,9 @@
 next js is a framework/library of react js which is used to create web applications
 next js has extra features over react js like routing, authentication, api calls, middleware, SPA
 next js has inbuilt features like SSR(server side rendering) which helps in SEO, built in optimization feature
+
+Q: is react code working with Next JS?
+Q: what is component?
+Q: how to pass data in component?
+Q: difference between javascript and typescript?
+Q: server side scripting and client side scripting?
